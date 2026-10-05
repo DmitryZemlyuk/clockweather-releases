@@ -1,6 +1,6 @@
 {
-  "version": "3.11.0",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.11.0.apk",
-  "size": 272463,
-  "notes": "New versions are now announced in a panel at the bottom of the forecast screen, with what's new and an Update button.\nThe update downloads right in the panel, with a progress bar.\nThe update banner opens the same panel; swipe down, tap outside or press Back to close it."
+  "version": "3.11.1",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.11.1.apk",
+  "size": 272465,
+  "notes": "Fixed: after updating to 3.11.0 the widget could show a wrong weather icon (for example rain for overcast).\nResource IDs are now pinned between versions, so future updates can't mix up widget icons."
 }
