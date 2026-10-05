@@ -30,7 +30,7 @@ jobs:
           echo "apk=$APK" >> "$GITHUB_OUTPUT"
           { echo "notes<<EOF_NOTES"; echo "$NOTES"; echo "EOF_NOTES"; } >> "$GITHUB_OUTPUT"
 
-      - name: Create release (skipped if it already exists)
+      - name: Create release (or update its notes if it already exists)
         env:
           GH_TOKEN: ${{ github.token }}
           VERSION: ${{ steps.v.outputs.version }}
@@ -38,7 +38,8 @@ jobs:
           NOTES: ${{ steps.v.outputs.notes }}
         run: |
           if gh release view "v$VERSION" >/dev/null 2>&1; then
-            echo "Release v$VERSION already exists"
+            echo "Release v$VERSION exists, syncing its notes with latest.json"
+            gh release edit "v$VERSION" --notes "$NOTES"
             exit 0
           fi
           gh release create "v$VERSION" "$APK" --title "$VERSION" --notes "$NOTES" --target main
