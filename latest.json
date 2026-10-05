@@ -1,6 +1,6 @@
 {
-  "version": "3.9.1",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.9.1.apk",
-  "size": 253596,
-  "notes": "Self-update: the app now checks this repository for new versions and offers to install them. Also: centered-clock layout for 3×2 widgets, settings export/import, MET Norway caching."
+  "version": "3.9.2",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.9.2.apk",
+  "size": 253603,
+  "notes": "Test release to check the self-update flow. No functional changes since 3.9.1."
 }
