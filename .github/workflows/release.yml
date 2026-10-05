@@ -1,0 +1,44 @@
+# Creates a GitHub release from latest.json whenever a new version is pushed.
+# The app itself updates from latest.json; releases are only for a readable version history.
+name: Release from latest.json
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - latest.json
+      - .github/workflows/release.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Read version
+        id: v
+        run: |
+          VERSION=$(jq -r .version latest.json)
+          APK="apk/ClockWeather-${VERSION}.apk"
+          NOTES=$(jq -r '.notes // ""' latest.json)
+          test -f "$APK" || { echo "::error::$APK not found"; exit 1; }
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+          echo "apk=$APK" >> "$GITHUB_OUTPUT"
+          { echo "notes<<EOF_NOTES"; echo "$NOTES"; echo "EOF_NOTES"; } >> "$GITHUB_OUTPUT"
+
+      - name: Create release (skipped if it already exists)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VERSION: ${{ steps.v.outputs.version }}
+          APK: ${{ steps.v.outputs.apk }}
+          NOTES: ${{ steps.v.outputs.notes }}
+        run: |
+          if gh release view "v$VERSION" >/dev/null 2>&1; then
+            echo "Release v$VERSION already exists"
+            exit 0
+          fi
+          gh release create "v$VERSION" "$APK" --title "$VERSION" --notes "$NOTES" --target main
