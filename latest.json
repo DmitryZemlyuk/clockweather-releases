@@ -1,6 +1,6 @@
 {
-  "version": "3.10.2",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.10.2.apk",
-  "size": 265123,
-  "notes": "The text in the update banner on the forecast screen is now vertically centered."
+  "version": "3.10.3",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.10.3.apk",
+  "size": 265797,
+  "notes": "The hourly temperature line is now colored by temperature (blue when cold, yellow, orange when warm), on the same scale as the 7-day bars."
 }
