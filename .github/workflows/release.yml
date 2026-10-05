@@ -43,3 +43,25 @@ jobs:
             exit 0
           fi
           gh release create "v$VERSION" "$APK" --title "$VERSION" --notes "$NOTES" --target main
+
+      - name: Keep only the last 3 versions (releases, tags and APK files)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          KEEP: 3
+        run: |
+          KEPT=$(gh release list --limit 100 --json tagName -q '.[].tagName' | sed 's/^v//' | sort -V -r | head -n "$KEEP")
+          echo "Keeping: $(echo $KEPT)"
+          for TAG in $(gh release list --limit 100 --json tagName -q '.[].tagName'); do
+            echo "$KEPT" | grep -qx "${TAG#v}" || { echo "Deleting release $TAG"; gh release delete "$TAG" --yes --cleanup-tag; }
+          done
+          CHANGED=0
+          for F in apk/ClockWeather-*.apk; do
+            V=$(basename "$F" .apk); V=${V#ClockWeather-}
+            echo "$KEPT" | grep -qx "$V" || { echo "Removing $F"; git rm -q "$F"; CHANGED=1; }
+          done
+          if [ "$CHANGED" = 1 ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -q -m "Remove APKs older than the last $KEEP versions"
+            git push
+          fi
