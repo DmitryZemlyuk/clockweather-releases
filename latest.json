@@ -1,6 +1,6 @@
 {
-  "version": "3.11.2",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.11.2.apk",
-  "size": 272814,
-  "notes": "Opening a day in the 7-day list now scrolls the screen along, so the day and all its hours are visible right away.\nThe screen only scrolls as much as needed and never hides the day's row under the top bar."
+  "version": "3.11.3",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.11.3.apk",
+  "size": 271962,
+  "notes": "Showers icon: two clouds instead of the sun or moon, in every icon style; darker clouds at night.\nDots styles: a fuller, softer moon for a clear night.\nDuotone style: smaller rain drops with more space between them."
 }
