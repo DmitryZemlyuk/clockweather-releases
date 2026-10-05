@@ -1,6 +1,6 @@
 {
-  "version": "3.10.3",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.10.3.apk",
-  "size": 265797,
-  "notes": "The hourly temperature line is now colored by temperature (blue when cold, yellow, orange when warm), on the same scale as the 7-day bars."
+  "version": "3.11.0",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.11.0.apk",
+  "size": 272463,
+  "notes": "New versions are now announced in a panel at the bottom of the forecast screen, with what's new and an Update button.\nThe update downloads right in the panel, with a progress bar.\nThe update banner opens the same panel; swipe down, tap outside or press Back to close it."
 }
