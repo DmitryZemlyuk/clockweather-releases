@@ -1,0 +1,6 @@
+{
+  "version": "3.9.1",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.9.1.apk",
+  "size": 253596,
+  "notes": "Автообновление: приложение само проверяет новые версии здесь. Вид 3×2 с часами по центру, экспорт/импорт настроек, кеширование MET Norway."
+}
