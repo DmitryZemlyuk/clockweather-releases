@@ -1,6 +1,6 @@
 {
-  "version": "3.9.2",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.9.2.apk",
-  "size": 253603,
-  "notes": "Test release to check the self-update flow. No functional changes since 3.9.1."
+  "version": "3.10.0",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.10.0.apk",
+  "size": 264960,
+  "notes": "Animated forecast screen: live weather background (soft sun glow, drifting clouds, rain, snow, stars, gentle lightning) that follows the current weather, a city swipe that follows your finger with the sky blending into the next city, cards that slide in on open, the hourly chart drawing itself, smooth expand/collapse of days with an arrow, and the temperature counting up after a refresh. New setting: Forecast screen → Live background. Animations stop when the screen is closed and respect the system \"remove animations\" setting."
 }
