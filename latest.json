@@ -1,6 +1,6 @@
 {
-  "version": "3.12.0",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.12.0.apk",
-  "size": 281810,
-  "notes": "Sun and Moon cards on the forecast screen, the same as in the web version: the altitude curve over the day, sunrise and sunset, golden hour, dusk, time until sunset, the moon phase with rise, set and the next full and new moon.\nEach card can be turned off in Settings → Forecast screen.\nEverything is computed on the phone, no extra requests."
+  "version": "3.12.1",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.12.1.apk",
+  "size": 303561,
+  "notes": "New line icons instead of emoji: weather warnings, the rain line, the drop next to precipitation and the stale-data mark on the widget, the arrows on the sun and moon curves.\nThe Emoji icon set is gone; if it was selected, the app switches to Colored.\nThe same warnings are now in the web version too."
 }
