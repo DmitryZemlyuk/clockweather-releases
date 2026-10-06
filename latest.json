@@ -1,6 +1,6 @@
 {
-  "version": "3.12.3",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.12.3.apk",
-  "size": 303613,
-  "notes": "Sun and Moon cards: the altitude is now really aligned to the right edge, and the card titles are in capitals like the other sections."
+  "version": "3.12.4",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.12.4.apk",
+  "size": 303618,
+  "notes": "Sun and Moon cards: the \"above / below horizon\" caption is shown in full again."
 }
