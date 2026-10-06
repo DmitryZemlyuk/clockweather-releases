@@ -1,6 +1,6 @@
 {
-  "version": "3.11.4",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.11.4.apk",
-  "size": 272533,
-  "notes": "Live temperature: between refreshes the widget and the forecast screen follow the 15-minute forecast, so the temperature no longer jumps when you unlock the phone.\nThe widget redraws every 5 minutes while the screen is on (no network)."
+  "version": "3.12.0",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.12.0.apk",
+  "size": 281810,
+  "notes": "Sun and Moon cards on the forecast screen, the same as in the web version: the altitude curve over the day, sunrise and sunset, golden hour, dusk, time until sunset, the moon phase with rise, set and the next full and new moon.\nEach card can be turned off in Settings → Forecast screen.\nEverything is computed on the phone, no extra requests."
 }
