@@ -1,6 +1,6 @@
 {
-  "version": "3.11.3",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.11.3.apk",
-  "size": 271962,
-  "notes": "Showers icon: two clouds instead of the sun or moon, in every icon style; darker clouds at night.\nDots styles: a fuller, softer moon for a clear night.\nDuotone style: smaller rain drops with more space between them."
+  "version": "3.11.4",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.11.4.apk",
+  "size": 272533,
+  "notes": "Live temperature: between refreshes the widget and the forecast screen follow the 15-minute forecast, so the temperature no longer jumps when you unlock the phone.\nThe widget redraws every 5 minutes while the screen is on (no network)."
 }
