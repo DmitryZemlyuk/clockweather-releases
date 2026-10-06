@@ -1,4 +1,4 @@
-# Clock & Weather — APK releases
+# Clock & Weather APK releases
 
 Android home-screen clock and weather widget. This repository holds **APK builds only**, no sources.
 
