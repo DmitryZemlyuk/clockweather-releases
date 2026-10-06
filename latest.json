@@ -1,6 +1,6 @@
 {
-  "version": "3.12.4",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.12.4.apk",
-  "size": 303618,
-  "notes": "Sun and Moon cards: the \"above / below horizon\" caption is shown in full again."
+  "version": "3.12.5",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.12.5.apk",
+  "size": 303620,
+  "notes": "Sun card: the change of daylight since yesterday is on its own line."
 }
