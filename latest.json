@@ -1,6 +1,6 @@
 {
-  "version": "3.13.0",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.13.0.apk",
-  "size": 312143,
-  "notes": "Weather notifications for all your cities: rain or snow soon, warnings and a morning summary. Settings > Notifications."
+  "version": "3.13.1",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.13.1.apk",
+  "size": 312210,
+  "notes": "Weather notifications start with the city name."
 }
