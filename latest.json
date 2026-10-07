@@ -1,6 +1,6 @@
 {
-  "version": "3.12.5",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.12.5.apk",
-  "size": 303620,
-  "notes": "Sun card: the change of daylight since yesterday is on its own line."
+  "version": "3.13.0",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.13.0.apk",
+  "size": 312143,
+  "notes": "Weather notifications for all your cities: rain or snow soon, warnings and a morning summary. Settings > Notifications."
 }
