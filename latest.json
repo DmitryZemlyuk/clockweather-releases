@@ -1,6 +1,6 @@
 {
-  "version": "3.13.1",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.13.1.apk",
-  "size": 312210,
-  "notes": "Weather notifications start with the city name."
+  "version": "3.13.2",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.13.2.apk",
+  "size": 313451,
+  "notes": "Choose which cities get weather notifications. New cities are added switched off."
 }
