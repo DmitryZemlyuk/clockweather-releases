@@ -1,6 +1,6 @@
 {
-  "version": "3.13.3",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.13.3.apk",
-  "size": 313488,
-  "notes": "Hourly chart: no precipitation bars below 10% (they had no label)."
+  "version": "3.13.4",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.13.4.apk",
+  "size": 313499,
+  "notes": "7 days: the current temperature dot on today's bar is no longer cut off."
 }
