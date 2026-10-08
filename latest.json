@@ -1,6 +1,6 @@
 {
-  "version": "3.13.4",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.13.4.apk",
-  "size": 313499,
-  "notes": "7 days: the current temperature dot on today's bar is no longer cut off."
+  "version": "3.13.5",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.13.5.apk",
+  "size": 313550,
+  "notes": "7 days: the bars use the rounded temperatures shown next to them, so the current temperature dot sits where you expect."
 }
