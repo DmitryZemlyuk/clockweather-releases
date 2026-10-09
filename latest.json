@@ -1,6 +1,6 @@
 {
-  "version": "3.13.5",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.13.5.apk",
-  "size": 313550,
-  "notes": "7 days: the bars use the rounded temperatures shown next to them, so the current temperature dot sits where you expect."
+  "version": "3.13.6",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.13.6.apk",
+  "size": 313711,
+  "notes": "Sun card: the golden hour and twilight shown are always the next ones (this morning, this evening or tomorrow morning)."
 }
