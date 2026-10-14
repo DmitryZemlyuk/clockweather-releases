@@ -1,6 +1,6 @@
 {
-  "version": "3.14.2",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.2.apk",
-  "size": 316689,
-  "notes": "Fixes: the morning summary alarm can no longer get lost, refreshes stop on time, backup import keeps this phone's update state."
+  "version": "3.14.3",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.3.apk",
+  "size": 316722,
+  "notes": "The weather-notification check uses the same \"skip if the data is newer than\" setting as the widget, so it no longer downloads more often."
 }
