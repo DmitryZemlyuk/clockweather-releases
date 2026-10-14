@@ -1,6 +1,6 @@
 {
-  "version": "3.14.3",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.3.apk",
-  "size": 316722,
-  "notes": "The weather-notification check uses the same \"skip if the data is newer than\" setting as the widget, so it no longer downloads more often."
+  "version": "3.14.4",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.4.apk",
+  "size": 316921,
+  "notes": "While the phone stays unlocked, the widget refreshes as soon as the data gets older than the \"skip if newer than\" setting, instead of waiting for the next unlock."
 }
