@@ -1,6 +1,6 @@
 {
-  "version": "3.13.6",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.13.6.apk",
-  "size": 313711,
-  "notes": "Sun card: the golden hour and twilight shown are always the next ones (this morning, this evening or tomorrow morning)."
+  "version": "3.14.0",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.0.apk",
+  "size": 316077,
+  "notes": "Forecast confidence: when weather models disagree about a day, its row shows the likely spread, e.g. \"±2° / 2-10 mm\" (yellow: may change, orange: uncertain). Can be turned off in Settings."
 }
