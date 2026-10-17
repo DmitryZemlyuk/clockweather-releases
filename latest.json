@@ -1,6 +1,6 @@
 {
-  "version": "3.14.11",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.11.apk",
-  "size": 317088,
-  "notes": "Checking for updates sees a new version right after it is published."
+  "version": "3.14.12",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.12.apk",
+  "size": 317122,
+  "notes": "Checking for updates sees a new version within a minute of its release (reads the version file through the GitHub API)."
 }
