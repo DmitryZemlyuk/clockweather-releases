@@ -1,6 +1,6 @@
 {
-  "version": "3.14.12",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.12.apk",
-  "size": 317122,
-  "notes": "Checking for updates sees a new version within a minute of its release (reads the version file through the GitHub API)."
+  "version": "3.15.0",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.15.0.apk",
+  "size": 317634,
+  "notes": "Temperature in Celsius or Fahrenheit (Settings - Temperature). Celsius stays the default; warning thresholds are shown in the chosen unit."
 }
