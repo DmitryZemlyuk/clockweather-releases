@@ -1,6 +1,6 @@
 {
-  "version": "3.14.6",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.6.apk",
-  "size": 317025,
-  "notes": "Widget: a weather warning disappears once it is over, the stale-data sign is cleared after a refresh, and switching the background to Material You applies right away."
+  "version": "3.14.7",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.7.apk",
+  "size": 317061,
+  "notes": "The periodic background refresh uses the same \"skip if newer than\" setting as the rest of the app, and weather downloaded for a city that was just deleted or moved is no longer stored."
 }
