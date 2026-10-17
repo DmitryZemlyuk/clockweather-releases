@@ -1,6 +1,6 @@
 {
-  "version": "3.14.10",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.10.apk",
-  "size": 317104,
-  "notes": "7-day forecast: the precipitation chance and amount are centered in their column again."
+  "version": "3.14.11",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.11.apk",
+  "size": 317088,
+  "notes": "Checking for updates sees a new version right after it is published."
 }
