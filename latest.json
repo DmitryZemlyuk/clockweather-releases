@@ -1,6 +1,6 @@
 {
-  "version": "3.15.0",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.15.0.apk",
-  "size": 317634,
-  "notes": "Temperature in Celsius or Fahrenheit (Settings - Temperature). Celsius stays the default; warning thresholds are shown in the chosen unit."
+  "version": "3.15.1",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.15.1.apk",
+  "size": 317776,
+  "notes": "Hourly forecast: the chance of precipitation is centered on its number, in line with the temperature above it."
 }
