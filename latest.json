@@ -1,6 +1,6 @@
 {
-  "version": "3.15.2",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.15.2.apk",
-  "size": 317514,
-  "notes": "Hourly forecast: every line of a column (time, temperature, chance, amount, wind) is centered the same way."
+  "version": "3.15.3",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.15.3.apk",
+  "size": 317522,
+  "notes": "Hourly chart: each temperature sits right above its point."
 }
