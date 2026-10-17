@@ -1,6 +1,6 @@
 {
-  "version": "3.14.7",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.7.apk",
-  "size": 317061,
-  "notes": "The periodic background refresh uses the same \"skip if newer than\" setting as the rest of the app, and weather downloaded for a city that was just deleted or moved is no longer stored."
+  "version": "3.14.8",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.8.apk",
+  "size": 317162,
+  "notes": "7-day forecast: the chance and amount of precipitation sit right next to the weather icon."
 }
