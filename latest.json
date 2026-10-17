@@ -1,6 +1,6 @@
 {
-  "version": "3.14.8",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.8.apk",
-  "size": 317162,
-  "notes": "7-day forecast: the chance and amount of precipitation sit right next to the weather icon."
+  "version": "3.14.9",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.14.9.apk",
+  "size": 317148,
+  "notes": "Hourly forecast: the drop icon sits right next to the chance of precipitation."
 }
