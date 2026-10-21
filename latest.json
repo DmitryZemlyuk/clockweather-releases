@@ -1,6 +1,6 @@
 {
-  "version": "3.15.5",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.15.5.apk",
-  "size": 317515,
-  "notes": "Hourly chart: temperatures below zero are centered above their point."
+  "version": "3.15.6",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.15.6.apk",
+  "size": 317552,
+  "notes": "Weather warnings show the nearest spell only: fog this morning and fog tomorrow morning are no longer merged into one long warning."
 }
