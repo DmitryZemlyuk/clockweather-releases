@@ -1,6 +1,6 @@
 {
-  "version": "3.15.6",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.15.6.apk",
-  "size": 317552,
-  "notes": "Weather warnings show the nearest spell only: fog this morning and fog tomorrow morning are no longer merged into one long warning."
+  "version": "3.16.0",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.16.0.apk",
+  "size": 320288,
+  "notes": "Glass panels on the forecast screen: the sky shows blurred through the cards, with a light rim and sheen. On by default; Settings - Glass panels turns it off."
 }
