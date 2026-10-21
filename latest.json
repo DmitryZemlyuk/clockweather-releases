@@ -1,6 +1,6 @@
 {
-  "version": "3.16.0",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.16.0.apk",
-  "size": 320288,
-  "notes": "Glass panels on the forecast screen: the sky shows blurred through the cards, with a light rim and sheen. On by default; Settings - Glass panels turns it off."
+  "version": "3.16.1",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.16.1.apk",
+  "size": 320074,
+  "notes": "Cleaner glass panels: an even fill and a hairline border, without the sheen."
 }
