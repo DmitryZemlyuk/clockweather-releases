@@ -1,6 +1,6 @@
 {
-  "version": "3.16.1",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.16.1.apk",
-  "size": 320074,
-  "notes": "Cleaner glass panels: an even fill and a hairline border, without the sheen."
+  "version": "3.16.2",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.16.2.apk",
+  "size": 320096,
+  "notes": "Glass panels: smooth, no more flicker (the blurred sky follows every frame and leaves out rain, snow and stars)."
 }
