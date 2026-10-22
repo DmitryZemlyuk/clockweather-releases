@@ -1,6 +1,6 @@
 {
-  "version": "3.16.2",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.16.2.apk",
-  "size": 320096,
-  "notes": "Glass panels: smooth, no more flicker (the blurred sky follows every frame and leaves out rain, snow and stars)."
+  "version": "3.16.3",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.16.3.apk",
+  "size": 320295,
+  "notes": "Lighter glass panels: several times less work per frame, and no work at all while the sky behind them stands still."
 }
