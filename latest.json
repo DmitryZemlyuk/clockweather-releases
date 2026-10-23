@@ -1,6 +1,6 @@
 {
-  "version": "3.17.0",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.17.0.apk",
-  "size": 325324,
-  "notes": "Rain and snow on the glass panels: drops that bead, slide down and merge, snow specks that melt, and a frosted snow cap on the top edges. Needs glass panels and the live background."
+  "version": "3.17.1",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.17.1.apk",
+  "size": 326631,
+  "notes": "More natural rain drops on the glass panels: every drop has its own shape, shading and glint."
 }
