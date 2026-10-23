@@ -1,6 +1,6 @@
 {
-  "version": "3.16.3",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.16.3.apk",
-  "size": 320295,
-  "notes": "Lighter glass panels: several times less work per frame, and no work at all while the sky behind them stands still."
+  "version": "3.17.0",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.17.0.apk",
+  "size": 325324,
+  "notes": "Rain and snow on the glass panels: drops that bead, slide down and merge, snow specks that melt, and a frosted snow cap on the top edges. Needs glass panels and the live background."
 }
