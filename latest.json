@@ -1,6 +1,6 @@
 {
-  "version": "3.17.1",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.17.1.apk",
-  "size": 326631,
-  "notes": "More natural rain drops on the glass panels: every drop has its own shape, shading and glint."
+  "version": "3.18.0",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.18.0.apk",
+  "size": 328173,
+  "notes": "More reliable widget updates: the app restarts the unlock refresh when the system stops it, and Settings - Status shows whether it runs. Rain notifications now come 15-30 minutes before the rain."
 }
