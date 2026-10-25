@@ -1,6 +1,6 @@
 {
-  "version": "3.19.0",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.19.0.apk",
-  "size": 347752,
-  "notes": "Precipitation map: rain and snow around the city for the next 12 hours on our own map, with a timeline and play button. It can be turned off in Settings."
+  "version": "3.19.1",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.19.1.apk",
+  "size": 348155,
+  "notes": "Precipitation map: rain areas have soft, natural edges instead of grid squares; the source line under the map is gone."
 }
