@@ -1,6 +1,6 @@
 {
-  "version": "3.19.4",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.19.4.apk",
-  "size": 348318,
-  "notes": "Precipitation map: solid map background, the sky's clouds no longer show through it."
+  "version": "3.19.5",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.19.5.apk",
+  "size": 348450,
+  "notes": "Precipitation map: its background follows the sky colours (day, night, clouds, sunset)."
 }
