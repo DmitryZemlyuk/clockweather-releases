@@ -1,6 +1,6 @@
 {
-  "version": "3.19.1",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.19.1.apk",
-  "size": 348155,
-  "notes": "Precipitation map: rain areas have soft, natural edges instead of grid squares; the source line under the map is gone."
+  "version": "3.19.2",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.19.2.apk",
+  "size": 348234,
+  "notes": "Precipitation map: the \"Now\" label under the hours is no longer cut off on phones."
 }
