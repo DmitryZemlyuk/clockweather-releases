@@ -1,6 +1,6 @@
 {
-  "version": "3.19.5",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.19.5.apk",
-  "size": 348450,
-  "notes": "Precipitation map: its background follows the sky colours (day, night, clouds, sunset)."
+  "version": "3.20.0",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.20.0.apk",
+  "size": 351448,
+  "notes": "Settings link: Settings - To another device - Share settings makes a link with your cities and settings for the site or another phone; the site's QR code can pass them straight into the app."
 }
