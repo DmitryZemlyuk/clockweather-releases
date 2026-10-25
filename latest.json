@@ -1,6 +1,6 @@
 {
-  "version": "3.19.2",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.19.2.apk",
-  "size": 348234,
-  "notes": "Precipitation map: the \"Now\" label under the hours is no longer cut off on phones."
+  "version": "3.19.3",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.19.3.apk",
+  "size": 348316,
+  "notes": "Precipitation map: where \"Now\" does not fit under the first hour (landscape), the current hour is shown in white instead."
 }
