@@ -1,6 +1,6 @@
 {
-  "version": "3.21.0",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.21.0.apk",
-  "size": 352155,
-  "notes": "Live background: clouds no longer drift across the screen, they slowly thicken and thin in place. Uses less battery too."
+  "version": "3.21.1",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.21.1.apk",
+  "size": 352277,
+  "notes": "Precipitation map: rain in the city itself is described by how strong it is (\"Light rain, 0.4 mm/h\", over several hours \"up to\")."
 }
