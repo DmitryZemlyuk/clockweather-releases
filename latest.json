@@ -1,6 +1,6 @@
 {
-  "version": "3.20.0",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.20.0.apk",
-  "size": 351448,
-  "notes": "Settings link: Settings - To another device - Share settings makes a link with your cities and settings for the site or another phone; the site's QR code can pass them straight into the app."
+  "version": "3.20.1",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.20.1.apk",
+  "size": 351818,
+  "notes": "Precipitation map: no rain drops from the glass effect on the map itself, so the map stays still."
 }
