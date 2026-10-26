@@ -1,6 +1,6 @@
 {
-  "version": "3.20.3",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.20.3.apk",
-  "size": 352143,
-  "notes": "Precipitation map: the glass card is back; rain areas get a clear edge with a light rim instead of a fading blur, and the current hour appears first."
+  "version": "3.21.0",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.21.0.apk",
+  "size": 352155,
+  "notes": "Live background: clouds no longer drift across the screen, they slowly thicken and thin in place. Uses less battery too."
 }
