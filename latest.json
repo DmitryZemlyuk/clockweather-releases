@@ -1,6 +1,6 @@
 {
-  "version": "3.20.2",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.20.2.apk",
-  "size": 352016,
-  "notes": "Precipitation map: its card is a still panel now, so the drifting sky behind it no longer makes the map seem to move."
+  "version": "3.20.3",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.20.3.apk",
+  "size": 352143,
+  "notes": "Precipitation map: the glass card is back; rain areas get a clear edge with a light rim instead of a fading blur, and the current hour appears first."
 }
