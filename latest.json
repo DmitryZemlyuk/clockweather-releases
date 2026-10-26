@@ -1,6 +1,6 @@
 {
-  "version": "3.20.1",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.20.1.apk",
-  "size": 351818,
-  "notes": "Precipitation map: no rain drops from the glass effect on the map itself, so the map stays still."
+  "version": "3.20.2",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.20.2.apk",
+  "size": 352016,
+  "notes": "Precipitation map: its card is a still panel now, so the drifting sky behind it no longer makes the map seem to move."
 }
