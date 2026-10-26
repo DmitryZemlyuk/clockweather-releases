@@ -1,6 +1,6 @@
 {
-  "version": "3.21.1",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.21.1.apk",
-  "size": 352277,
-  "notes": "Precipitation map: rain in the city itself is described by how strong it is (\"Light rain, 0.4 mm/h\", over several hours \"up to\")."
+  "version": "3.21.2",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.21.2.apk",
+  "size": 352441,
+  "notes": "Precipitation map: clouds no longer blink every hour while playing (a proper cross-fade between hours)."
 }
