@@ -1,6 +1,6 @@
 {
-  "version": "3.22.0",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.22.0.apk",
-  "size": 355340,
-  "notes": "Normal for the season: when today is 2 degrees or more warmer or colder than the 1991-2020 average for the date, a small note under the current weather says by how much."
+  "version": "3.22.1",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.22.1.apk",
+  "size": 355292,
+  "notes": "Season normal note is shorter (\"4\u00b0 warmer \u00b7 normal 9\u00b0 / 3\u00b0\") and shows the normal on phones too."
 }
