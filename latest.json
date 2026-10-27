@@ -1,6 +1,6 @@
 {
-  "version": "3.21.5",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.21.5.apk",
-  "size": 352843,
-  "notes": "Gentler on sleep: the background check no longer wakes the phone on its own, it runs together with other wake-ups."
+  "version": "3.22.0",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.22.0.apk",
+  "size": 355340,
+  "notes": "Normal for the season: when today is 2 degrees or more warmer or colder than the 1991-2020 average for the date, a small note under the current weather says by how much."
 }
