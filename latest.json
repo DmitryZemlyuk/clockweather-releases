@@ -1,6 +1,6 @@
 {
-  "version": "3.21.4",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.21.4.apk",
-  "size": 352678,
-  "notes": "Precipitation map: when it cannot load or its forecast is out of date it says so and offers a Retry button, instead of loading forever."
+  "version": "3.21.5",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.21.5.apk",
+  "size": 352843,
+  "notes": "Gentler on sleep: the background check no longer wakes the phone on its own, it runs together with other wake-ups."
 }
