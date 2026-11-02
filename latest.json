@@ -1,6 +1,6 @@
 {
-  "version": "3.22.2",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.22.2.apk",
-  "size": 355331,
-  "notes": "Snowy hours show the snow in cm, the same unit as the day's total."
+  "version": "3.23.0",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.23.0.apk",
+  "size": 366607,
+  "notes": "New widget style: Material You. The background, clock, text and line icons take the wallpaper colours and follow the system light or dark theme (Android 12+)."
 }
