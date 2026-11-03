@@ -1,6 +1,6 @@
 {
-  "version": "3.23.0",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.23.0.apk",
-  "size": 366607,
-  "notes": "New widget style: Material You. The background, clock, text and line icons take the wallpaper colours and follow the system light or dark theme (Android 12+)."
+  "version": "3.23.1",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.23.1.apk",
+  "size": 367033,
+  "notes": "Precipitation map: weak rain gets a crisp edge with a light rim at 0.1 mm/h, the same as heavy rain (it looked like haze)."
 }
