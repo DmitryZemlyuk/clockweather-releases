@@ -1,6 +1,6 @@
 {
-  "version": "3.23.1",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.23.1.apk",
-  "size": 367033,
-  "notes": "Precipitation map: weak rain gets a crisp edge with a light rim at 0.1 mm/h, the same as heavy rain (it looked like haze)."
+  "version": "3.23.2",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.23.2.apk",
+  "size": 377649,
+  "notes": "New signing key: uninstall the old app first (save your settings link in Settings), then install this one. Widget: the clock never wraps, long warning and rain lines are shortened."
 }
