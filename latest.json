@@ -1,6 +1,6 @@
 {
-  "version": "3.23.2",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.23.2.apk",
-  "size": 377649,
-  "notes": "New signing key: uninstall the old app first (save your settings link in Settings), then install this one. Widget: the clock never wraps, long warning and rain lines are shortened."
+  "version": "3.23.3",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/clockweather-releases/main/apk/ClockWeather-3.23.3.apk",
+  "size": 378744,
+  "notes": "The frost warning shows only in spring and autumn, when nights are normally above zero, not all winter."
 }
