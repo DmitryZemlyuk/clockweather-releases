@@ -1,7 +1,7 @@
 // Service worker: the site opens instantly and works offline (the forecast itself is already kept in localStorage).
 // The page (HTML) is always asked from the network first, so a new release is picked up right away; the
 // versioned scripts/styles (?v=<hash>) never change, so they come from the cache. Weather APIs are not touched.
-var VERSION = '5f64a2a763', CACHE = 'cw-' + VERSION, ASSETS = ["./", "style.css?v=657031598f", "icons.js?v=a4e09dec4c", "app.js?v=f49abb9d94", "sky.js?v=5059fc8bdd", "manifest.webmanifest", "pwa/icon.svg", "pwa/icon-192.png", "pwa/apple-180.png"];
+var VERSION = '4e06438929', CACHE = 'cw-' + VERSION, ASSETS = ["./", "style.css?v=657031598f", "icons.js?v=a4e09dec4c", "app.js?v=c58e22bace", "sky.js?v=a58b7035b2", "manifest.webmanifest", "pwa/icon.svg", "pwa/icon-192.png", "pwa/apple-180.png"];
 
 self.addEventListener('install', function (e) {
   e.waitUntil(caches.open(CACHE).then(function (c) { return c.addAll(ASSETS); }).then(function () { return self.skipWaiting(); }));
